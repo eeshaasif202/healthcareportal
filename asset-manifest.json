@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/healthcareportal/static/css/main.6ad904e6.css",
+    "main.js": "/healthcareportal/static/js/main.e991febd.js",
+    "static/js/787.b9863e98.chunk.js": "/healthcareportal/static/js/787.b9863e98.chunk.js",
+    "static/media/hcpLogo.png": "/healthcareportal/static/media/hcpLogo.fb5f2bb06beb2d727651.png",
+    "static/media/patient_welcome.jpg": "/healthcareportal/static/media/patient_welcome.0e055cb79f6da6455613.jpg",
+    "static/media/dr_welcome.jpg": "/healthcareportal/static/media/dr_welcome.033b5a6d285c8fbc1f8b.jpg",
+    "static/media/email.png": "/healthcareportal/static/media/email.eb26ee152dcdc932ac9d.png",
+    "index.html": "/healthcareportal/index.html",
+    "main.6ad904e6.css.map": "/healthcareportal/static/css/main.6ad904e6.css.map",
+    "main.e991febd.js.map": "/healthcareportal/static/js/main.e991febd.js.map",
+    "787.b9863e98.chunk.js.map": "/healthcareportal/static/js/787.b9863e98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6ad904e6.css",
+    "static/js/main.e991febd.js"
+  ]
+}
